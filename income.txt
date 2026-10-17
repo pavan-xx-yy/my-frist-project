@@ -1,0 +1,3 @@
+sales,10000
+sales,10000
+hi,salarys,50000
